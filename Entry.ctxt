@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=Entry
+comment0.text=\n\ A\ class\ that\ describes\ an\ Entry\ object\ in\ a\ Map.\n
+comment1.params=k\ v
+comment1.target=Entry(java.lang.Object,\ java.lang.Object)
+comment2.params=
+comment2.target=java.lang.Object\ getKey()
+comment3.params=
+comment3.target=java.lang.Object\ getValue()
+numComments=4
